@@ -8,4 +8,4 @@
 * 企业微信  
 #### (PS:go练手作品，代码太烂了就不放出来了)
 ### 使用说明:  
-release下载对应平台二进制文件，配置好config.toml即可，可以用crontab/qinglong等设置定时
+release下载对应平台二进制文件，配置好config.toml即可，可以用crontab/qinglong等设置定时，已适配多账号(因同ip导致的风险自行承担)
