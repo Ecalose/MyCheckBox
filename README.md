@@ -14,3 +14,4 @@ release下载对应平台二进制文件，配置好config.toml即可，可以�
 * name 通知名称
 * url 将host一词替换为网址
 * cookie 站点cookie
+* 企业微信推送仅需填写corpid、corpsecret两项
