@@ -8,7 +8,12 @@ msg=""
 name="馒头"
 url="host/index.php"
 cookie=""
+[[mteam]]
+name="馒头2"
+url="host/index.php"
+cookie=""
 [[ptschool]]
 name = "ptschool"
 url = "host/index.php?action=addbonus"
 cookie=""
+
