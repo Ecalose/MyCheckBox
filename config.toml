@@ -1,19 +1,39 @@
+# 企业微信
 [wxconfig]
-msgtype="text"
+msgtype=""
 corpid=""
 corpsecret=""
 title=""
 msg=""
+
+# telegram bot
+[tgconfig]
+bottoken=""
+userid=""
+msg=""
+
+# get类站点
+[[get]]
+name=""
+url=""
+cookie=""
+[[get]]
+name=""
+url=""
+cookie=""
+
+# 馒头
 [[mteam]]
-name="馒头"
+name="馒头1"
 url="host/index.php"
 cookie=""
 [[mteam]]
 name="馒头2"
-url="host/index.php"
+url=""
 cookie=""
+
+# 学校
 [[ptschool]]
 name = "ptschool"
 url = "host/index.php?action=addbonus"
 cookie=""
-
