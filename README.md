@@ -15,10 +15,10 @@
 (PS:go练手作品，代码太烂了就不放出来了)
 
 ### 配置说明
-* name 通知名称
-* url 将host一词替换为网址
-* cookie 站点cookie
-* 企业微信推送仅需填写corpid、corpsecret两项
+* name 通知名称(必填)
+* url 将host一词替换为网址(必填)
+* cookie 站点cookie(必填)
+* 企业微信推送仅需填写corpid、corpsecret两项(如无需则可不填)
 * 其余详见config.toml内说明
 
 ### 运行效果展示
