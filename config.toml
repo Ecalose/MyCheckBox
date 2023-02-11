@@ -37,3 +37,8 @@ cookie=""
 name = "ptschool"
 url = "host/index.php?action=addbonus"
 cookie=""
+# 老师
+[[nicept]]
+name=""
+url="host/attendance.php"
+cookie=""
