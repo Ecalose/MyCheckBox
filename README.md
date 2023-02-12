@@ -21,6 +21,9 @@
 * 企业微信推送仅需填写corpid、corpsecret两项(如无需则可不填)
 * 其余详见config.toml内说明
 
+### 适配计划
+目前手上就这三个号，所以也就适配了这三个站(
+
 ### 运行效果展示
 ![Screenshot_2023-02-10-10-42-16-435_com tencent wework](https://user-images.githubusercontent.com/47114714/217987149-047880d4-2eb4-4c77-b468-59b0fae204bd.png)
 
