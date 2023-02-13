@@ -1,10 +1,11 @@
-# pt站签到，保活
+# pt站签到，保活；阿里云盘签到
 ## 仅供学习参考，请下载后24小时内删除，所产生后果与本人无关  
 
 ### 目前适配站点：  
 * ptschool  
 * 馒头 (mteam)
 * 老师 (nicept)
+* 阿里云盘
 * 请求为get类型的签到站点(不仅限于pt站点,目前仅通过响应头判断是否成功)
 ### 目前适配通知：  
 * 企业微信
@@ -20,6 +21,7 @@
 * cookie 站点cookie(必填)
 * 企业微信推送仅需填写corpid、corpsecret两项(如无需则可不填)
 * 其余详见config.toml内说明
+* refresh_token 阿里云盘,抓取教程可以参考该[链接](https://alist.nn.ci/zh/guide/drivers/aliyundrive.html)
 
 ### 适配计划
 目前手上就这三个号，所以也就适配了这三个站(
