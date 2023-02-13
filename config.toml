@@ -42,3 +42,8 @@ cookie=""
 name=""
 url="host/attendance.php"
 cookie=""
+
+# 阿里云盘
+[[alicloud]]
+name="阿里云盘"
+refresh_token=""
