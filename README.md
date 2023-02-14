@@ -12,7 +12,7 @@
 * 企业微信
 * telegram bot
 ### 使用说明:  
-[release](https://github.com/Ecalose/ptsign/releases/latest)下载对应平台二进制文件，配置好config.toml放于同一目录即可，可以用crontab/qinglong等设置定时，已适配多账号(因同ip导致的风险自行承担) 
+[release](https://github.com/Ecalose/MyCheckBox/releases/latest)下载对应平台二进制文件，配置好config.toml放于同一目录即可，可以用crontab/qinglong等设置定时，已适配多账号(因同ip导致的风险自行承担) 
 
 (PS:go练手作品，代码太烂了就不放出来了)
 
