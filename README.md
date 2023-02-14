@@ -25,7 +25,8 @@
 * refresh_token 阿里云盘,抓取教程可以参考该[链接](https://alist.nn.ci/zh/guide/drivers/aliyundrive.html)
 
 ### 适配计划
-目前手上就这三个号，所以也就适配了这三个站(
+pt站目前手上就这三个号，所以也就适配了这三个站(  
+其余随缘
 
 ### 运行效果展示
 ![image](https://user-images.githubusercontent.com/47114714/218457785-db669532-09f3-441f-9fe2-a7fb576642aa.png)
