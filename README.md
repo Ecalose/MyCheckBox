@@ -17,7 +17,8 @@
 (PS:go练手作品，代码太烂了就不放出来了)
 
 ### 命令行参数
-* -t 后接cron表达式，如"59 23 * * *"，精确到分，设置定时(不依赖系统的crontab)
+* -t 后接cron表达式，如"59 23 * * *"，精确到分，设置定时(不依赖系统的crontab)  
+示例: ./mycheckbox -t "59 23 * * *"(英文引号不能忘)
 
 ### 配置说明
 * name 通知名称(必填)
@@ -28,8 +29,7 @@
 * refresh_token 阿里云盘,抓取教程可以参考该[链接](https://alist.nn.ci/zh/guide/drivers/aliyundrive.html)
 
 ### 适配计划
-pt站目前手上就这三个号，所以也就适配了这三个站(  
-其余随缘
+pt站目前手上就这三个号，所以也就适配了这三个站,其他的等有了药再说(
 
 ### 运行效果展示
 ![image](https://user-images.githubusercontent.com/47114714/218457785-db669532-09f3-441f-9fe2-a7fb576642aa.png)
