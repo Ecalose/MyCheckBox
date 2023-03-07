@@ -1,3 +1,7 @@
+# 杂项
+[common]
+proxy=""
+
 # 企业微信
 [wxconfig]
 msgtype=""
