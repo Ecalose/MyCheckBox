@@ -24,6 +24,7 @@
 * name 通知名称(必填)
 * url 将host一词替换为网址(必填)
 * cookie 站点cookie(必填)
+* proxy 代理链接(http/socks5)
 * 企业微信推送仅需填写corpid、corpsecret两项(如无需则可不填)
 * 其余详见config.toml内说明
 * refresh_token 阿里云盘,抓取教程可以参考该[链接](https://alist.nn.ci/zh/guide/drivers/aliyundrive.html)
