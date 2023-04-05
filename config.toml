@@ -51,3 +51,14 @@ cookie=""
 [[alicloud]]
 name="阿里云盘"
 refresh_token=""
+
+# discuz论坛(post类)
+[[post]]
+name = ""
+url = ""
+cookie=""
+data=""
+# 已签到的正则表达式
+DoneRegex="今日已经签过到"
+# 签到成功的正则表达式
+SuccessRegex="签到成功"
