@@ -9,7 +9,7 @@
 * 阿里云盘
 * discuz论坛
 * 请求为get类型的签到站点(不仅限于pt站点,目前仅通过响应头判断是否成功)
-* 请求为post类型,数据类型为application/x-www-form-urlencoded的站点
+* 请求为post类型,数据类型为application/x-www-form-urlencoded的站点(通过正则判断推送内容，无匹配项则推送签到失败)
 ### 目前适配通知：  
 * 企业微信
 * telegram bot
