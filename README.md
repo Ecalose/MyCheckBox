@@ -17,7 +17,11 @@
 [release](https://github.com/Ecalose/MyCheckBox/releases/latest)下载对应平台二进制文件，配置好config.toml放于同一目录即可，可以用crontab/qinglong等设置定时，或使用-t 的flag设置定时，已适配多账号(因同ip导致的风险自行承担) 
 
 (PS:go练手作品，代码太烂了就不放出来了)
-
+### 青龙拉取命令
+```
+ql repo "https://github.com/Ecalose/MyCheckBox.git" "sh" "" "" "main" ""
+```
+config.sh内的RepoFileExtensions需加入sh,如：RepoFileExtensions="js pl py sh ts"
 ### 命令行参数
 * -t 后接cron表达式，如"59 23 * * *"，精确到分，设置定时(不依赖系统的crontab)  
 示例: ./mycheckbox -t "59 23 * * *" (英文引号不能忘)
