@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# cron "15 7 * * *" script-path=xxx.sh,tag=匹配cron用
+# const $ = new Env('MyCheckBox');
+# -------------------------------
 case $(uname -m) in
     x86_64)  arch=amd64;;
     aarch64) arch=arm64;;
