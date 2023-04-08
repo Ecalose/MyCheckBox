@@ -14,7 +14,7 @@ wget -q -O /ql/data/scripts/Ecalose_MyCheckBox_main/mycheckbox $link
 FILE=/ql/data/scripts/Ecalose_MyCheckBox_main/config.toml
 
 if [ ! -f "$FILE" ]; then
-    echo "配置文件不存在,开始下载配置文件,位置为/ql/data/scripts/config.toml"
+    echo "配置文件不存在,开始下载配置文件,位置为/ql/data/scripts/Ecalose_MyCheckBox_main/config.toml"
     wget -q -O /ql/data/scripts/Ecalose_MyCheckBox_main/config.toml "https://raw.githubusercontent.com/Ecalose/MyCheckBox/main/config.toml"
 fi
 echo "开始签到"
