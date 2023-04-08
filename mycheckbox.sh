@@ -10,11 +10,11 @@ case $(uname -m) in
 esac
 echo "系统架构为$arch,开始下载最新checkbox"
 link="https://github.com/Ecalose/MyCheckBox/releases/latest/download/mycheckbox-$arch"
-wget -q -O /ql/data/scripts/mycheckbox/mycheckbox $link
-FILE=/ql/data/scripts/mycheckbox/config.toml
+wget -q -O /ql/data/scripts/mycheckbox $link
+FILE=/ql/data/scripts/config.toml
 
 if [ ! -f "$FILE" ]; then
-    echo "配置文件不存在,开始下载配置文件,位置为/ql/data/scripts/mycheckbox/config.toml"
-    wget -q -O /ql/data/scripts/mycheckbox/config.toml "https://raw.githubusercontent.com/Ecalose/MyCheckBox/main/config.toml"
+    echo "配置文件不存在,开始下载配置文件,位置为/ql/data/scripts/config.toml"
+    wget -q -O /ql/data/scripts/config.toml "https://raw.githubusercontent.com/Ecalose/MyCheckBox/main/config.toml"
 fi
-chmod +x /ql/data/scripts/mycheckbox/mycheckbox && /ql/data/scripts/mycheckbox/mycheckbox
+chmod +x /ql/data/scripts/mycheckbox && /ql/data/scripts/mycheckbox
