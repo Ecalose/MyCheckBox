@@ -39,7 +39,7 @@ config.sh内的RepoFileExtensions需加入sh,如：RepoFileExtensions="js pl py 
 pt站目前手上就这三个号，所以也就适配了这三个站,其他的等有了药再说(
 
 ### 运行效果展示
-![image](https://user-images.githubusercontent.com/47114714/218457785-db669532-09f3-441f-9fe2-a7fb576642aa.png)
+![image](https://user-images.githubusercontent.com/47114714/230721109-0bc6d9a0-f2b1-47f2-a7e8-6260f1f4b39f.png)
 
 ![Screenshot_2023-02-10-10-42-16-435_com tencent wework](https://user-images.githubusercontent.com/47114714/217987149-047880d4-2eb4-4c77-b468-59b0fae204bd.png)
 
