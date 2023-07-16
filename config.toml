@@ -25,6 +25,7 @@ cookie=""
 name=""
 url=""
 cookie=""
+ua=""
 
 # 馒头
 [[mteam]]
@@ -41,6 +42,7 @@ cookie=""
 name = "ptschool"
 url = "host/index.php?action=addbonus"
 cookie=""
+ua=""
 # 老师
 [[nicept]]
 name=""
@@ -62,3 +64,4 @@ data=""
 DoneRegex="今日已经签过到"
 # 签到成功的正则表达式
 SuccessRegex="签到成功"
+ua=""
